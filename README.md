@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Geovanni Hernández 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas+Computacionales;Resuelvo+problemas+con+tecnolog%C3%ADa;Me+apasiona+optimizar+procesos+y+automatizar+tareas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas+Computacionales;Resuelvo+problemas+con+tecnolog%C3%ADa;Me+apasiona+optimizar+procesos+y+automatizar+tareas" alt="Typing SVG" />
 </p>
 
 ---
@@ -53,4 +53,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
